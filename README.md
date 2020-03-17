@@ -44,7 +44,7 @@ Currents sets to be developed
 
 ## Drugs targeting the renin–angiotensin system
 ### Ts:
-* [ ] ACE inhibitors (class)
+* [x] ACE inhibitors (class)
 * [ ] ARBs (class)
 ### Cs: 
 * [ ] Thiazides and thiazide-like diuretics (class) 
