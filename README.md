@@ -6,7 +6,7 @@ Currents sets to be developed
 ## DMARDs
 
 ### Ts:
-* [ ] Hydroxychloroquine (ingredient)
+* [x] Hydroxychloroquine (ingredient)
 * [ ] Tocilizumab (ingredient)
 * [ ] Baricitinib (ingredient)
 ### Cs: 
