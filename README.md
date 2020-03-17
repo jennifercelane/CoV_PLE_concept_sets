@@ -10,8 +10,8 @@ Currents sets to be developed
 * Tocilizumab (ingredient)
 * Baricitinib (ingredient)
 ### Cs: 
-* Methotrexate (ingredient)
-* Sulfasalazine (ingredient)
+* ~Methotrexate (ingredient)
+* ~Sulfasalazine (ingredient)
 
 ##Anti-HIV antiviral therapies
 
